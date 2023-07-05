@@ -1,5 +1,6 @@
 [
   {
+    "ID": "KAST100",
     "BRAND": "Kastaplast",
     "PRODNAME": "Reko",
     "GRAPHNAME": "reko.png",
@@ -10,6 +11,7 @@
     "DESCRIPTION": "The reko is a straight flying putter, good for beginners."
   },
   {
+    "ID": "KAST101",
     "BRAND": "Kastaplast",
     "PRODNAME": "Svea",
     "GRAPHNAME": "svea.png",
@@ -20,6 +22,7 @@
     "DESCRIPTION": "The svea is an understable midrange, great for beginners."
   },
   {
+    "ID": "KAST102",
     "BRAND": "Kastaplast",
     "PRODNAME": "Stal",
     "GRAPHNAME": "stal.png",
@@ -30,6 +33,7 @@
     "DESCRIPTION": "The stal is an overstable fairway driver. The stal is directed towards more advanced players."
   },
   {
+    "ID": "KAST103",
     "BRAND": "Kastaplast",
     "PRODNAME": "Grym",
     "GRAPHNAME": "grym.png",
@@ -40,6 +44,7 @@
     "DESCRIPTION": "The grym is an understable distance driver. The grym is a great first distance driver when players want to take the step up from a fairway driver."
   },
   {
+    "ID": "KAST104",
     "BRAND": "Kastaplast",
     "PRODNAME": "Rask",
     "GRAPHNAME": "rask.png",
@@ -50,6 +55,7 @@
     "DESCRIPTION": "The rask is a very overstable distance driver. The rask is directed towards utility shots for advanced players."
   },
   {
+    "ID": "INNO100",
     "BRAND": "Innova",
     "PRODNAME": "Aviar",
     "GRAPHNAME": "aviar.png",
@@ -60,6 +66,7 @@
     "DESCRIPTION": "The aviar is a straight flying putter designed for everyone."
   },
   {
+    "ID": "INNO101",
     "BRAND": "Innova",
     "PRODNAME": "Pig",
     "GRAPHNAME": "pig.png",
@@ -70,6 +77,7 @@
     "DESCRIPTION": "The pig is an overstable approach disc designed for everyone."
   },
   {
+    "ID": "INNO102",
     "BRAND": "Innova",
     "PRODNAME": "Mako3",
     "GRAPHNAME": "mako3.png",
@@ -80,6 +88,7 @@
     "DESCRIPTION": "The mako3 is an understable approach disc designed for everyone, and great for beginners."
   },
   {
+    "ID": "INNO103",
     "BRAND": "Innova",
     "PRODNAME": "Teebird",
     "GRAPHNAME": "teebird.png",
@@ -90,6 +99,7 @@
     "DESCRIPTION": "The teebird is Innova's most popular fairway driver. The teebird is great for everyone."
   },
   {
+    "ID": "INNO104",
     "BRAND": "Innova",
     "PRODNAME": "Destroyer",
     "GRAPHNAME": "destroyer.png",
@@ -100,6 +110,7 @@
     "DESCRIPTION": "The destroyer is a stable distance driver designed for advanced players."
   },
   {
+    "ID": "DISC100",
     "BRAND": "Discraft",
     "PRODNAME": "Roach",
     "GRAPHNAME": "roach.png",
@@ -110,6 +121,7 @@
     "DESCRIPTION": "The roach is a straight flying putter designed for everyone."
   },
   {
+    "ID": "DISC101",
     "BRAND": "Discraft",
     "PRODNAME": "Buzzz",
     "GRAPHNAME": "buzzz.png",
@@ -120,6 +132,7 @@
     "DESCRIPTION": "The buzzz is a stable flying mid-range designed for everyone. This is a very popular disc amoung both advanced and beginner players."
   },
   {
+    "ID": "DISC102",
     "BRAND": "Discraft",
     "PRODNAME": "Raptor",
     "GRAPHNAME": "raptor.png",
@@ -130,6 +143,7 @@
     "DESCRIPTION": "The raptor is an overstable fairway driver designed for advanced players."
   },
   {
+    "ID": "DISC103",
     "BRAND": "Discraft",
     "PRODNAME": "Nuke",
     "GRAPHNAME": "nuke.png",
@@ -140,6 +154,7 @@
     "DESCRIPTION": "The nuke is an overstable distance driver designed for very advanced players."
   },
   {
+    "ID": "DISC104",
     "BRAND": "Discraft",
     "PRODNAME": "Thrasher",
     "GRAPHNAME": "thrasher.png",
